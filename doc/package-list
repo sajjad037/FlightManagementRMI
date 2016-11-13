@@ -1,0 +1,8 @@
+com.concordia.dist.asg1.Client
+com.concordia.dist.asg1.DAL
+com.concordia.dist.asg1.Models
+com.concordia.dist.asg1.Server
+com.concordia.dist.asg1.Service
+com.concordia.dist.asg1.StaticContent
+com.concordia.dist.asg1.UnitTest
+com.concordia.dist.asg1.Utilities
